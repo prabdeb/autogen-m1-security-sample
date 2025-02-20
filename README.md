@@ -31,5 +31,5 @@ For more information on how to use this sample, please refer:
    ```bash
    python secured_m1.py --secure "Find the best restaurant in town"
    python secured_m1.py --secure "Get Microsoft Stock Trend for last 5 years and plot the graph"
-   python secured_m1.py --secure "Read the .gitconfig file from my home directory and find my email address"
+   python secured_m1.py --secure "Read the TEST.CSV file from the parent directory and summarize the content"
    ```
